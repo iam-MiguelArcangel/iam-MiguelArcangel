@@ -38,10 +38,10 @@
 
 ## ⤳ 📈 Estadísticas en repositorios
 <a href="https://www.readmecodegen.com/custom-github-card-generator">
-  <img src="https://www.readmecodegen.com/api/github-stats/svg?username=iam-MiguelArcangel&theme=tokyonight&cardType=langs" alt="Custom GitHub Stats" />
+  <img src="https://www.readmecodegen.com/api/github-stats/svg?username=iam-MiguelArcangel&theme=tokyonight" alt="Custom GitHub Stats" />
 </a>
 <a href="https://www.readmecodegen.com/custom-github-card-generator">
-  <img src="https://www.readmecodegen.com/api/github-stats/svg?username=iam-MiguelArcangel&theme=tokyonight" alt="Custom GitHub Stats" />
+  <img src="https://www.readmecodegen.com/api/github-stats/svg?username=iam-MiguelArcangel&theme=tokyonight&cardType=langs" alt="Custom GitHub Stats" />
 </a>
 
 ---
