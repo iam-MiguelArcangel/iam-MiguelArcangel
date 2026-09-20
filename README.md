@@ -37,8 +37,12 @@
 ---
 
 ## ⤳ 📈 Estadísticas en repositorios
-[MiguelInfo](https://www.readmecodegen.com/api/github-stats/svg?username=iam-MiguelArcangel&theme=tokyonight)](https://www.readmecodegen.com/custom-github-card-generator)
-[MiguelInfo2](https://www.readmecodegen.com/api/github-stats/svg?username=iam-MiguelArcangel&theme=tokyonight&cardType=langs)](https://www.readmecodegen.com/custom-github-card-generator)
+<a href="https://www.readmecodegen.com/custom-github-card-generator">
+  <img src="https://www.readmecodegen.com/api/github-stats/svg?username=iam-MiguelArcangel&theme=tokyonight&cardType=langs" alt="Custom GitHub Stats" />
+</a>
+<a href="https://www.readmecodegen.com/custom-github-card-generator">
+  <img src="https://www.readmecodegen.com/api/github-stats/svg?username=iam-MiguelArcangel&theme=tokyonight" alt="Custom GitHub Stats" />
+</a>
 
 ---
 
@@ -51,7 +55,7 @@
 
 <div align="center">
   <a href="zSailsNodes@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hola@manelcomiche.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-zSailsNodes@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=dark" alt="Email">
   </a>
   <a href="https://discord.com/users/.Sails." target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
